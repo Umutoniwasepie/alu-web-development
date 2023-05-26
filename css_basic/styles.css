@@ -31,3 +31,8 @@ aside {
 article, aside {
     overflow-y: auto;
 }
+
+/* Add any other styling properties for the logo here */
+.logo {
+  font-size: 24px;
+}
